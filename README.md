@@ -1,6 +1,6 @@
 # Register-Form
-![Screenshot (7)](https://github.com/alif-dot/Register-Form/assets/62230465/536e2b3d-b523-4da6-82cd-6e4f31bee0b9)
+![Screenshot (7)](https://github.com/alif-dot/Register-Form/assets/62230465/3d0f353a-42c6-453f-85b7-3446ab55eee6)
 
-![Screenshot (8)](https://github.com/alif-dot/Register-Form/assets/62230465/f9650eb0-45b9-46ec-a837-1e2025282211)
+![Screenshot (8)](https://github.com/alif-dot/Register-Form/assets/62230465/763d7a51-2d01-4a56-aba8-835d2803dca8)
 
-![Screenshot (9)](https://github.com/alif-dot/Register-Form/assets/62230465/59980e3d-c724-471d-8559-df0f9d9efb24)
+![Screenshot (9)](https://github.com/alif-dot/Register-Form/assets/62230465/b9802fa3-e624-4fed-a11e-09947458ff1e)
